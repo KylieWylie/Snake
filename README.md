@@ -4,4 +4,4 @@ A fun snake game I made following an online tutorial, then added lots of extra f
 Original tutorial here:
 https://www.youtube.com/watch?v=xGmXxpIj6vs
 
-Skilla: Wamp, JavaScript, PHP, HTML, CSS.
+Skills: Wamp, JavaScript, PHP, HTML, CSS.
